@@ -9,4 +9,6 @@ to work with Git courses.
 
 Cool stuff goes here
 
+Updated locally 
+
 Making new edit to this file
