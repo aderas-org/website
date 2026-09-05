@@ -1,6 +1,6 @@
-# ReadMe for Website Project
+# my Website
 
-Readme file for website project.
+This is a really awesom website.
 
 ## Purpose
 
