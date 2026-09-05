@@ -1,6 +1,10 @@
-# my-website
+# ReadMe for Website Project
 
+Readme file for website project.
 
+## Purpose
 
-This is really an awesome website
+This Purpose of this repo is to provide a real world example
+to work with Git courses.
 
+Cool stuff goes here
