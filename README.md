@@ -10,3 +10,8 @@ to work with Git courses.
 Cool stuff goes here
 
 updates made on main on github before rebase
+
+## Purpose
+This file is just a readme file.
+
+
